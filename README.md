@@ -8,8 +8,8 @@ Some of the codes are taken from the tutorial [Intermediate Machine Learning](ht
 ![alt text](https://github.com/Unicorndy/Housing-Prices-Competition-for-Kaggle-Learn-Users/blob/master/Rank1967%20on%20kaggle.jpg)
 
 ***
-### 2.  XGboost with hyperopt (Mean Absolute Error: 14902) Rank 724th on Kaggle - Top 5%
+### 2.  XGboost with hyperopt (Mean Absolute Error: 14876) Rank 627th on Kaggle - Top 4%
 I have recently improve the model with hyperopt and uploaded the notebook into the folder [XGboost_Hyperopt](https://github.com/Unicorndy/Housing-Prices-Competition-for-Kaggle-Learn-Users/tree/master/XGboost_Hyperopt).
 ***
-![alt text](https://github.com/Unicorndy/Housing-Prices-Competition-for-Kaggle-Learn-Users/blob/master/XGboost_Hyperopt/Rank724%20on%20kaggle.jpg)
-![alt text](https://github.com/Unicorndy/Housing-Prices-Competition-for-Kaggle-Learn-Users/blob/master/XGboost_Hyperopt/Top%205percent%20on%20kaggle.jpg)
+![alt text](https://github.com/Unicorndy/Housing-Prices-Competition-for-Kaggle-Learn-Users/blob/master/XGboost_Hyperopt/Rank627%20on%20kaggle.jpg)
+![alt text](https://github.com/Unicorndy/Housing-Prices-Competition-for-Kaggle-Learn-Users/blob/master/XGboost_Hyperopt/Top%204percent%20on%20kaggle.jpg)
